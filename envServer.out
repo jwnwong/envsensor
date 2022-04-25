@@ -1,0 +1,11 @@
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer' (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on all addresses (0.0.0.0)
+   WARNING: This is a development server. Do not use it in a production deployment.
+ * Running on http://127.0.0.1:5051
+ * Running on http://172.20.97.150:5051 (Press CTRL+C to quit)

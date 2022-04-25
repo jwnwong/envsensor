@@ -1,0 +1,4 @@
+myenv/*
+DHT.log
+dht.db
+__pycache__
