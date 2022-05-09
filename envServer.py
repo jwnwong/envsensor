@@ -3,7 +3,7 @@ import paho.mqtt.client as mqtt
 from time import strftime,sleep,time, localtime
 import sqlite3
 
-devices = ['livingroom', 'bedroom']
+devices = ['livingroom', 'bedroom','nicroom']
 
 def handle_mqtt_msg(client, userdata, message):
     global timestamp, temperature, humidity, pressure
@@ -14,25 +14,34 @@ def handle_mqtt_msg(client, userdata, message):
     humidity = data['humidity']
     pressure = data['pressure']
     timestamp = localtime(time())
-    
+    if (temperature == None) or (humidity== None) or (pressure==None):
+        return
+
     # write to log file
     with open('DHT.log','a') as f: 
-        log_str = sensorID + strftime(",%Y-%m-%d, %H:%M:%S, ",timestamp) + \
-            f'{temperature:.2f}, {humidity:.2f}, {pressure:.2f} \n'
-        f.write(log_str)
-        f.close()
+        try:
+            log_str = sensorID + strftime(",%Y-%m-%d, %H:%M:%S, ",timestamp) + \
+                f'{temperature:.2f}, {humidity:.2f}, {pressure:.2f} \n'
+        except:
+            print(temperature, humidity, pressure)
+            error_occurred = True
+        else:
+            f.write(log_str)
+            f.close()
+            error_occurred = False
 
     # write to sqlite database
-    connection = sqlite3.connect('dht.db')
-    cursor = connection.cursor()        
-    update_value = f'"{sensorID}",'+strftime('"%Y-%m-%d","%H:%M:%S",',timestamp) + \
-        f'{temperature:.2f}, {humidity:.2f}, {pressure:.2f}'
-    sql_update = "insert into dht values(" + update_value + ")"    
-    # print(sql_update)
-    cursor.execute(sql_update)
-    connection.commit()
-    cursor.close()
-    connection.close()
+    if error_occurred == False: 
+        connection = sqlite3.connect('dht.db')
+        cursor = connection.cursor()        
+        update_value = f'"{sensorID}",'+strftime('"%Y-%m-%d","%H:%M:%S",',timestamp) + \
+            f'{temperature:.2f}, {humidity:.2f}, {pressure:.2f}'
+        sql_update = "insert into dht values(" + update_value + ")"    
+        # print(sql_update)
+        cursor.execute(sql_update)
+        connection.commit()
+        cursor.close()
+        connection.close()
             
 
 client = mqtt.Client("Server")
