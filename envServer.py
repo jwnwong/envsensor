@@ -32,15 +32,14 @@ def handle_mqtt_msg(client, userdata, message):
 
     # write to sqlite database
     if error_occurred == False: 
-        connection = sqlite3.connect('dht.db')
-        cursor = connection.cursor()        
-        update_value = f'"{sensorID}",'+strftime('"%Y-%m-%d","%H:%M:%S",',timestamp) + \
-            f'{temperature:.2f}, {humidity:.2f}, {pressure:.2f}'
-        sql_update = "insert into dht values(" + update_value + ")"    
-        # print(sql_update)
-        cursor.execute(sql_update)
-        connection.commit()
-        cursor.close()
+        with sqlite3.connect('dht.db') as connection:
+            cursor = connection.cursor()        
+            update_value = f'"{sensorID}",'+strftime('"%Y-%m-%d","%H:%M:%S",',timestamp) + \
+                f'{temperature:.2f}, {humidity:.2f}, {pressure:.2f}'
+            sql_update = "insert into dht values(" + update_value + ")"    
+            # print(sql_update)
+            cursor.execute(sql_update)
+            cursor.close()
         connection.close()
             
 
