@@ -1,672 +1,270 @@
 Connecting to broker server.
 Connected to MQTT broker.
- * Serving Flask app 'envServer' (lazy loading)
- * Environment: production
-   WARNING: This is a development server. Do not use it in a production deployment.
-   Use a production WSGI server instead.
+ * Serving Flask app 'envServer'
  * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
-   WARNING: This is a development server. Do not use it in a production deployment.
  * Running on http://127.0.0.1:5051
- * Running on http://172.20.97.150:5051 (Press CTRL+C to quit)
-Connecting to broker server.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Connected to MQTT broker.
- * Serving Flask app 'envServer' (lazy loading)
- * Environment: production
-   WARNING: This is a development server. Do not use it in a production deployment.
-   Use a production WSGI server instead.
- * Debug mode: off
- * Running on all addresses (0.0.0.0)
-   WARNING: This is a development server. Do not use it in a production deployment.
  * Running on http://127.0.0.1:5051
- * Running on http://172.20.97.150:5051 (Press CTRL+C to quit)
-127.0.0.1 - - [11/May/2022 15:08:48] "[33mget /status HTTP/1.1[0m" 404 -
-Connecting to broker server.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Connected to MQTT broker.
- * Serving Flask app 'envServer' (lazy loading)
- * Environment: production
-   WARNING: This is a development server. Do not use it in a production deployment.
-   Use a production WSGI server instead.
- * Debug mode: off
- * Running on all addresses (0.0.0.0)
-   WARNING: This is a development server. Do not use it in a production deployment.
- * Running on http://127.0.0.1:5051
- * Running on http://172.20.97.150:5051 (Press CTRL+C to quit)
-Connecting to broker server.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Connected to MQTT broker.
- * Serving Flask app 'envServer' (lazy loading)
- * Environment: production
-   WARNING: This is a development server. Do not use it in a production deployment.
-   Use a production WSGI server instead.
- * Debug mode: off
- * Running on all addresses (0.0.0.0)
-   WARNING: This is a development server. Do not use it in a production deployment.
- * Running on http://127.0.0.1:5051
- * Running on http://172.20.97.150:5051 (Press CTRL+C to quit)
+[33mPress CTRL+C to quit[0m
 Connecting to broker server.
 Connected to MQTT broker.
- * Serving Flask app 'envServer' (lazy loading)
- * Environment: production
-   WARNING: This is a development server. Do not use it in a production deployment.
-   Use a production WSGI server instead.
+ * Serving Flask app 'envServer'
  * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
-   WARNING: This is a development server. Do not use it in a production deployment.
  * Running on http://127.0.0.1:5051
- * Running on http://172.20.97.150:5051 (Press CTRL+C to quit)
-Connecting to broker server.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Connected to MQTT broker.
- * Serving Flask app 'envServer' (lazy loading)
- * Environment: production
-   WARNING: This is a development server. Do not use it in a production deployment.
-   Use a production WSGI server instead.
- * Debug mode: off
- * Running on all addresses (0.0.0.0)
-   WARNING: This is a development server. Do not use it in a production deployment.
  * Running on http://127.0.0.1:5051
- * Running on http://172.20.97.150:5051 (Press CTRL+C to quit)
-Connecting to broker server.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Connected to MQTT broker.
- * Serving Flask app 'envServer' (lazy loading)
- * Environment: production
-   WARNING: This is a development server. Do not use it in a production deployment.
-   Use a production WSGI server instead.
- * Debug mode: off
- * Running on all addresses (0.0.0.0)
-   WARNING: This is a development server. Do not use it in a production deployment.
- * Running on http://127.0.0.1:5051
- * Running on http://172.20.97.150:5051 (Press CTRL+C to quit)
+[33mPress CTRL+C to quit[0m
 Connecting to broker server.
 Connected to MQTT broker.
- * Serving Flask app 'envServer' (lazy loading)
- * Environment: production
-   WARNING: This is a development server. Do not use it in a production deployment.
-   Use a production WSGI server instead.
+ * Serving Flask app 'envServer'
  * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
-   WARNING: This is a development server. Do not use it in a production deployment.
  * Running on http://127.0.0.1:5051
- * Running on http://172.20.97.150:5051 (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
 Connecting to broker server.
-Unable to connect to MQTT broker. Will try again later.
 Connected to MQTT broker.
- * Serving Flask app 'envServer' (lazy loading)
- * Environment: production
-   WARNING: This is a development server. Do not use it in a production deployment.
-   Use a production WSGI server instead.
+ * Serving Flask app 'envServer'
  * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
-   WARNING: This is a development server. Do not use it in a production deployment.
  * Running on http://127.0.0.1:5051
- * Running on http://172.20.97.150:5051 (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
 Connecting to broker server.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.Connecting to broker server.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
 Connected to MQTT broker.
- * Serving Flask app 'envServer' (lazy loading)
- * Environment: production
-   WARNING: This is a development server. Do not use it in a production deployment.
-   Use a production WSGI server instead.
+ * Serving Flask app 'envServer'
  * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
-   WARNING: This is a development server. Do not use it in a production deployment.
  * Running on http://127.0.0.1:5051
- * Running on http://172.20.97.150:5051 (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
 Connecting to broker server.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
-Unable to connect to MQTT broker. Will try again later.
 Connected to MQTT broker.
- * Serving Flask app 'envServer' (lazy loading)
- * Environment: production
-   WARNING: This is a development server. Do not use it in a production deployment.
-   Use a production WSGI server instead.
+ * Serving Flask app 'envServer'
  * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
  * Running on all addresses (0.0.0.0)
-   WARNING: This is a development server. Do not use it in a production deployment.
  * Running on http://127.0.0.1:5051
- * Running on http://172.20.97.150:5051 (Press CTRL+C to quit)
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://172.20.97.150:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://172.20.97.150:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://172.20.97.150:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m

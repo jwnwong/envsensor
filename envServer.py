@@ -3,6 +3,7 @@ import paho.mqtt.client as mqtt
 from time import strftime,sleep,time, localtime
 import sqlite3
 
+mqtt_address = "0.0.0.0"
 devices = ['livingroom', 'bedroom','nicroom']
 
 def handle_mqtt_msg(client, userdata, message):
@@ -48,7 +49,7 @@ print("Connecting to broker server.")
 flag_connected = False
 while not flag_connected: 
     try:
-        client.connect('172.20.97.150')
+        client.connect(mqtt_address)
     except:
         print("Unable to connect to MQTT broker. Will try again later.")
         sleep(5)
