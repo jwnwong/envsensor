@@ -4,7 +4,6 @@ from time import strftime,sleep,time, localtime
 import sqlite3
 
 mqtt_address = "0.0.0.0"
-devices = ['livingroom', 'bedroom','nicroom']
 
 def handle_mqtt_msg(client, userdata, message):
     global timestamp, temperature, humidity, pressure
@@ -59,8 +58,8 @@ while not flag_connected:
         client.on_message = handle_mqtt_msg
         client.loop_start() 
 
-for device in devices:          # subscribe to each device to monitor
-    client.subscribe('envsensor/'+device)
+# subscribe to all devices under topic envsensor/#
+client.subscribe('envsensor/#')
 
 app = Flask(__name__)
 
