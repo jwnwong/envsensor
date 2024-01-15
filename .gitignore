@@ -1,4 +1,5 @@
 myenv/*
+*.out
 DHT.log
 dht.db
 __pycache__
