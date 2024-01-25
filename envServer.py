@@ -39,6 +39,7 @@ def handle_mqtt_msg(client, userdata, message):
             sql_update = "insert into dht values(" + update_value + ")"    
             # print(sql_update)
             cursor.execute(sql_update)
+            connection.commit()
             cursor.close()
         connection.close()
             

@@ -664,3 +664,269 @@ Connected to MQTT broker.
  * Running on http://127.0.0.1:5051
  * Running on http://127.0.0.1:5051
 [33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://172.20.97.149:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+Address already in use
+Port 5051 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+Address already in use
+Port 5051 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+ * Debug mode: off
+Address already in use
+Address already in use
+Port 5051 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Port 5051 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+ * Debug mode: off
+ * Debug mode: off
+Address already in use
+Port 5051 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Address already in use
+Port 5051 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Address already in use
+Port 5051 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+Address already in use
+ * Debug mode: off
+Port 5051 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Address already in use
+Port 5051 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+Address already in use
+Port 5051 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+Address already in use
+Port 5051 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+Address already in use
+Port 5051 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+Address already in use
+Port 5051 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+Address already in use
+Port 5051 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Address already in use
+Port 5051 is in use by another program. Either identify and stop that program, or start the server with a different port.
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://172.20.97.149:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://172.20.97.149:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://172.20.97.151:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+[2024-01-20 07:44:40,287] ERROR in app: Exception on /env [GET]
+Traceback (most recent call last):
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/flask/app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/flask/app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/flask/app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/flask/app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pi/Projects/envsensor/envServer.py", line 75, in getSensorValue
+    js = {sensor: round(value,1)}
+                        ^^^^^
+UnboundLocalError: cannot access local variable 'value' where it is not associated with a value
+127.0.0.1 - - [20/Jan/2024 07:44:40] "[35m[1mGET /env?senesor=temperature HTTP/1.1[0m" 500 -
+[2024-01-20 07:45:11,457] ERROR in app: Exception on /env [GET]
+Traceback (most recent call last):
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/flask/app.py", line 1463, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/flask/app.py", line 872, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/flask/app.py", line 870, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/flask/app.py", line 855, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pi/Projects/envsensor/envServer.py", line 75, in getSensorValue
+    js = {sensor: round(value,1)}
+                        ^^^^^
+UnboundLocalError: cannot access local variable 'value' where it is not associated with a value
+127.0.0.1 - - [20/Jan/2024 07:45:11] "[35m[1mGET /env HTTP/1.1[0m" 500 -
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://172.20.97.151:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://127.0.0.1:5051
+[33mPress CTRL+C to quit[0m
+Exception in thread Thread-1 (_thread_main):
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1038, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.11/threading.py", line 975, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/paho/mqtt/client.py", line 3591, in _thread_main
+    self.loop_forever(retry_first_connection=True)
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/paho/mqtt/client.py", line 1756, in loop_forever
+    rc = self._loop(timeout)
+         ^^^^^^^^^^^^^^^^^^^
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/paho/mqtt/client.py", line 1164, in _loop
+    rc = self.loop_read()
+         ^^^^^^^^^^^^^^^^
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/paho/mqtt/client.py", line 1556, in loop_read
+    rc = self._packet_read()
+         ^^^^^^^^^^^^^^^^^^^
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/paho/mqtt/client.py", line 2439, in _packet_read
+    rc = self._packet_handle()
+         ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/paho/mqtt/client.py", line 3033, in _packet_handle
+    return self._handle_publish()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/paho/mqtt/client.py", line 3327, in _handle_publish
+    self._handle_on_message(message)
+  File "/home/pi/Projects/envsensor/myenv/lib/python3.11/site-packages/paho/mqtt/client.py", line 3570, in _handle_on_message
+    on_message(self, self._userdata, message)
+  File "/home/pi/Projects/envsensor/envServer.py", line 35, in handle_mqtt_msg
+    with sqlite3.connect('dht.db') as connection:
+sqlite3.OperationalError: database is locked
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://172.20.97.151:5051
+[33mPress CTRL+C to quit[0m
+Connecting to broker server.
+Connected to MQTT broker.
+ * Serving Flask app 'envServer'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5051
+ * Running on http://172.20.97.151:5051
+[33mPress CTRL+C to quit[0m
